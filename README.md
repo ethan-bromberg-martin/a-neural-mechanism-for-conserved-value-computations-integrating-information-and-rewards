@@ -6,5 +6,5 @@ This is the repository for the paper [*"A neural mechanism for value computation
 
 ## Availability
 
-Data and code will be made available on this GitHub repository one year after publication.
+Data and code will be made available on this repository one year after publication.
 
